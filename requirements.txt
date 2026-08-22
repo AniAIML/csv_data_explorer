@@ -3,3 +3,4 @@ pandas
 geopy
 matplotlib
 numpy
+scikit-learn
