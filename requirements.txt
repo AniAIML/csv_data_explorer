@@ -4,3 +4,5 @@ geopy
 matplotlib
 numpy
 scikit-learn
+fpdf2
+google-genai
