@@ -1,8 +1,12 @@
 streamlit
 pandas
-geopy
 matplotlib
 numpy
 scikit-learn
 fpdf2
 google-genai
+requests
+google-generativeai
+geopy
+folium
+streamlit-folium
